@@ -1,16 +1,45 @@
-# LeetCode Solutions 🚀
+# LeetCode Solutions
 
-This repository contains my LeetCode problem solutions, organized by topic.
 
-## 📂 Folder Structure
-- Arrays
-- Strings
+This repository contains my solutions to LeetCode problems, solved as part of my daily Data Structures and Algorithms practice using Java.
 
-## 💻 Language Used
+
+---
+
+## Folder Structure
+
+- Arrays  
+- Strings  
+- LinkedList  
+- Stack  
+- Queue  
+- Recursion  
+- Dynamic Programming  
+
+---
+
+## Language Used
 - Java
 
-Each solution includes:
-- Problem link
-- Problem statement
-- Approach
-- Code solution
+---
+
+## Solution Format
+
+Each problem solution includes:
+- LeetCode problem link
+- Explanation of the approach
+- Java solution
+
+
+---
+
+## Goal
+
+- Build strong problem-solving skills
+- Maintain a structured record of solved problems
+
+---
+
+## Update Frequency
+Problems are added regularly as I solve them on LeetCode.
+
